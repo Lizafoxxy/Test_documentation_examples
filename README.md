@@ -3,5 +3,5 @@
 
 - Тестовая документация для тестирования главной страницы сайта "Обучение профессии" (Test_docs_main_Obucheniye_prof.xlsx):  https://docs.google.com/spreadsheets/d/1wP1bG4C4p9snxLU8DWJA-IigKBz8GTxkOI3cA-1rV3M/edit?usp=sharing
 
-- Тестовая документация для функционального тестирования авторизации в личном кабинете Ростелеком ИТ: https://docs.google.com/spreadsheets/d/1LzA2oH9-PzdmPeBOwQ461aAIPhi5qrDDJZwZ17Uw88M/edit?usp=sharing
+- Тестовая документация для функционального тестирования авторизации в личном кабинете Ростелеком ИТ (Test_docs_authorisation_Rostelekom.xlsx): https://docs.google.com/spreadsheets/d/1LzA2oH9-PzdmPeBOwQ461aAIPhi5qrDDJZwZ17Uw88M/edit?usp=sharing
   
